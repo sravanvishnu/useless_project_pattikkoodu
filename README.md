@@ -33,7 +33,7 @@ Kotlin Coroutines & StateFlow: Used to manage the background timers and fake pro
 - Implementation: The app is built using the MVVM (Model-View-ViewModel) architecture. This simply means the visual UI (the View) is completely separated from the hidden prank logic (the ViewModel). The ViewModel secretly calculates the random progress numbers and triggers the fake error, then automatically updates the UI to show those changes to the user in real-time.
 
 # Screenshots (Add at least 3)
-![Screenshot1]()
+![Screenshot1](t image.)
 *Add caption explaining what this shows*
 
 
