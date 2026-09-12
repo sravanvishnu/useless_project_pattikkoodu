@@ -32,9 +32,9 @@ Kotlin Coroutines & StateFlow: Used to manage the background timers and fake pro
 - Tools used: Android Studio (The software used to write the project) and Gradle (The build system that packages your code into the final installable .apk file).
 - Implementation: The app is built using the MVVM (Model-View-ViewModel) architecture. This simply means the visual UI (the View) is completely separated from the hidden prank logic (the ViewModel). The ViewModel secretly calculates the random progress numbers and triggers the fake error, then automatically updates the UI to show those changes to the user in real-time.
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](test_image.jpeg)
-*Add caption explaining what this shows*
+The install screen
 
 
 ---
